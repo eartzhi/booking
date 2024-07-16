@@ -1,1 +1,5 @@
 data/hotels.csv
+data/hotels_test.csv
+data/hotels_train.csv
+data/submission.csv
+data/to_competition.csv
