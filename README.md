@@ -1,4 +1,4 @@
-# PROJECT-2. Анализ вакансий из HeadHunter
+# PROJECT-3. Feature Engineering. Соревнование на Kaggle
 
 ## Оглавление   
 [1. Описание проекта](#оглавление)  
